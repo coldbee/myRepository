@@ -9,3 +9,4 @@ Git in dev branch.
 Creating a new branch is quick & simple.
 Now test push
 Now test merge
+Now test conflicts
