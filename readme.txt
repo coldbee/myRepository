@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 Now test push
 Now test merge
 Now Test Conflicts
+Now test conflicts
